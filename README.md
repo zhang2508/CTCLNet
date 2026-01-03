@@ -1,5 +1,4 @@
 
-
 # [Cross-task collaborative learning for aboveground biomass estimation from UAV hyperspectral imagery in sample-scarce desert rangelands](https://doi.org/10.1016/j.compag.2025.111386)
 
 Tao Zhang; Chuanzhong Xuan; Zhaohui Tang; Xinyu Gao; Suhui Liu; Yaobang Song; Qingjin Cao; Fei Cheng
@@ -30,4 +29,3 @@ If this code is useful for your research, please cite this paper.
     doi = {10.1016/j.compag.2025.111386},
 }
 ```
-
