@@ -26,6 +26,7 @@ If this code is useful for your research, please cite this paper.
     year = {2026},
     month = {03},
     volume = {243},
+    pages = {111386},
     doi = {10.1016/j.compag.2025.111386},
 }
 ```
